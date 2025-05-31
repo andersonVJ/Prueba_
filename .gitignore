@@ -1,0 +1,13 @@
+# Archivos compilados
+__pycache__/
+*.py[cod]
+
+# Base de datos SQLite
+*.sqlite3
+
+# Entornos virtuales
+entorno/
+venv/
+
+# Archivos de sistema
+.DS_Store
